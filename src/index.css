@@ -1,0 +1,15 @@
+:root {
+  --font-sans: "Inter", sans-serif;
+  --blue: #4ea8de;
+  --blue-dark: #1e6f9f;
+  --purple: #8284fa;
+  --purple-dark: #5e60ce;
+  --base-gray-700: #0d0d0d;
+  --base-gray-600: #1a1a1a;
+  --base-gray-500: #262626;
+  --base-gray-400: #333333;
+  --base-gray-300: #808080;
+  --base-gray-200: #d9d9d9;
+  --base-gray-100: #f2f2f2;
+  --danger: #e25858;
+}
